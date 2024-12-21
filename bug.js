@@ -1,0 +1,1 @@
+This error occurs when you try to use a package or module that is not installed or not properly linked in your Expo project. It can manifest in different ways, depending on the specific package and how it's used. For example, you might get an error like `Module not found: 'moduleName'` or an error related to an undefined function or variable.
